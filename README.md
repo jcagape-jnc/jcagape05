@@ -51,7 +51,14 @@ I’m a learner and creator advancing what’s next through collaboration and cl
 
 ## 🎨 Personal Brand Assets
 
-All official AXYON branding files are organized inside the `branding` folder for clarity and easy access.
+## 🔖 Logo
+
+![AXYON Logo](branding/logo/axyon%20logo.png)
+
+![AXYON Banner](branding/banner/axyon%20banner.png)
+
+
+
 
 
 ## 📫 Contact Me
@@ -64,6 +71,7 @@ All official AXYON branding files are organized inside the `branding` folder for
 ## 📝 Branding Reflection
 
 My branding was inspired by my interest in clean, modern, and forward-thinking design that represents growth and innovation. The AXYON logo uses a bold letter “A” combined with flowing shapes to symbolize progress, creativity, and continuous movement. I chose a strong color palette to create contrast and make the brand visually striking while maintaining a professional look. One of the most challenging parts of creating the logo was keeping it simple while still making it meaningful and unique. I had to remove unnecessary elements so the logo would remain clear and recognizable at any size. In the future, I plan to use this branding system across my GitHub profile, academic projects, and personal portfolio to maintain a consistent visual identity.
+
 
 
 
